@@ -47,7 +47,7 @@ def message(client, userdata, msg):
             say(session_id, 'Schere Stein Papier. <break time="1000ms"/> Ich habe ' + random.choice(answers))
         elif intentname == 'RockPaperScissors':
             answers = ['Rock', 'Paper', 'Scissors']
-            say(session_id, 'Rock, Paper, Scissors. <break time="1000ms"/> I have ' + random.choice(answers))
+            say(session_id, 'Rock Paper Scissors. <break time="1000ms"/> I have ' + random.choice(answers))
     except KeyError:
         pass
 
