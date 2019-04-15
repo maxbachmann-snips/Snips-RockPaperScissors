@@ -1,3 +1,3 @@
-# Snips-MagicMirror2
+# Snips-RockPaperScissors
 
-Skill to Show, Hide and Move Modules on the MagicMirror2.
+play rock, paper, scissors with snips. 
